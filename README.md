@@ -12,5 +12,3 @@
 
 ### inference before tuning
 ![inference before tuning](result_img/inference_before_tuning.png)
-
-## 2023.02.20 ~ing
